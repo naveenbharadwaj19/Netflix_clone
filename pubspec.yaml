@@ -45,8 +45,27 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+    - assets/images/netflixtextstyle.jpg
+    - assets/images/witcher_icon.jpg
+    - assets/images/watching.jpg
+    - assets/images/breakingbad.jpg
+    - assets/images/dark2.jpg
+    - assets/images/lucifer.jpg
+    - assets/images/moneyheist.jpg
+    - assets/images/sexeducation.jpg
+    - assets/images/teenwolf.jpg
+    - assets/images/riverdale.jpg
+    - assets/images/birdbox.jpg
+    - assets/images/tvd.jpg
+    - assets/images/sacredgames.jpg
+    - assets/images/tbt.jpg
+    - assets/images/100.jpg
+    - assets/images/strangerthings.jpg
+    - assets/images/witcher2.jpg
+    - assets/images/narcos.jpg
+    - assets/images/thewalkingdead.jpg
+    - assets/images/13reasons.jpg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
@@ -60,10 +79,10 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  # fonts:
-  #   - family: Schyler
-  #     fonts:
-  #       - asset: fonts/Schyler-Regular.ttf
+  fonts:
+    - family: MyCustomIcons
+      fonts:
+        - asset: assets/fonts/netflixIcon.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
