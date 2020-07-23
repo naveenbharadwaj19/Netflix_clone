@@ -13,8 +13,8 @@ class MoreScreen extends StatelessWidget {
             children: <Widget>[
               Image.asset(
                 "assets/images/watching.jpg",
-                height: 100,
-                width: 80,
+                height: 120,
+                width: 85,
                 // fit: BoxFit.fill,
               ),
               Padding(padding: EdgeInsets.all(2)),
